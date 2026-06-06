@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
+  <me<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hydropower Development Map</title>
 
@@ -13,34 +17,43 @@
   />
 
   <style>
-    body {
+    html, body {
+      height: 100%;
       margin: 0;
       font-family: Arial, sans-serif;
       color: #222;
       background: #f7f7f7;
     }
 
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
     header {
-      padding: 16px 20px 8px 20px;
+      padding: 16px 20px 12px 20px;
       background: white;
       border-bottom: 1px solid #ddd;
+      flex: 0 0 auto;
     }
 
     h1 {
       margin: 0 0 8px 0;
       font-size: 1.6rem;
+      line-height: 1.2;
     }
 
-    .description {
-      max-width: 1000px;
-      font-size: 0.98rem;
-      line-height: 1.5;
-      margin-bottom: 8px;
+    .map-disclaimer {
+      max-width: 1100px;
+      font-size: 0.92rem;
+      line-height: 1.45;
+      color: #444;
     }
 
     #map {
       width: 100%;
-      height: calc(100vh - 170px);
+      flex: 1 1 auto;
+      min-height: 500px;
     }
 
     .leaflet-popup-content {
@@ -49,19 +62,20 @@
     }
   </style>
 </head>
+
 <body>
   <header>
-    <h1>FRONTIERS, ROADS, and RIVER Landscapes in the Tsangpo Region</h1>
-   <div class="map-disclaimer">
+    <h1>Frontiers, Roads, and River Landscapes in the Tsangpo Region</h1>
+
+    <div class="map-disclaimer">
       Disclaimer: This interactive map is designed solely for academic discussion.
-     It visualizes the spatial relationships among infrastructure,
-     major rivers, settlements, and the boundary of the disputed
-     area between China and India in the Yarlung Tsangpo region. The map does not
-     constitute an authoritative political, legal, or territorial interpretation.
-     中方不承认任何印方对藏南地区的非法控制！
-   </div>
+      It visualizes spatial relationships among infrastructure, major rivers,
+      settlements, and the boundary of the disputed area between China and India
+      in the Yarlung Tsangpo region. The map does not constitute an authoritative
+      political, legal, or territorial interpretation.
+    </div>
   </header>
-  
+
   <div id="map"></div>
 
   <script
@@ -72,4 +86,5 @@
 
   <script src="new_main.js"></script>
 </body>
+</html>
 </html>
