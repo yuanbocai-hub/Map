@@ -1,0 +1,375 @@
+{
+  "type": "FeatureCollection",
+  "name": "Points",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15F437A6B73FBDC789DC",
+        "Name": "Tawang",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Tawang",
+        "matched_chinese_name": "达旺",
+        "tibetan_latin_transliteration": "rta-dbang; mon-rta-dbang, mon-rta-wam-rdzong",
+        "english_aliases": "Dawang",
+        "tibetan_meaning_en": "Place where the horse-headed deity gives empowerment (touches the head).",
+        "original_geojson_name": "达旺",
+        "match_status": "精确匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.868889,
+          27.591389,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2F53EB78103FBDC789DC",
+        "Name": "Dirang Dzong",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Dirang Dzong",
+        "matched_chinese_name": "德让宗",
+        "tibetan_latin_transliteration": "rdi-rang-rdzong",
+        "english_aliases": "Dirangzong",
+        "tibetan_meaning_en": "",
+        "original_geojson_name": "德让宗",
+        "match_status": "精确匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.272917,
+          27.343611,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34D18F9A033FBDC789DC",
+        "Name": "Bomdila",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Bomdila",
+        "matched_chinese_name": "邦迪拉",
+        "tibetan_latin_transliteration": "bum-ldir-la; 'bum-ldir-la",
+        "english_aliases": "",
+        "tibetan_meaning_en": "Drum- or pot-shaped mountain.",
+        "original_geojson_name": "邦迪拉",
+        "match_status": "精确匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.422778,
+          27.266667,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4BB9C5A74D3FBDC789DC",
+        "Name": "Kanggeduo",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Kanggeduo",
+        "matched_chinese_name": "康格多山",
+        "tibetan_latin_transliteration": "",
+        "english_aliases": "",
+        "tibetan_meaning_en": "",
+        "original_geojson_name": "康格多山",
+        "match_status": "未找到可靠匹配",
+        "match_note": "建议补充外部地名录或人工核对坐标"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.53283,
+          27.867381,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53E8B9465E3FBDC789DC",
+        "Name": "Gelinceniak",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Gelinceniak",
+        "matched_chinese_name": "哥里西娘",
+        "tibetan_latin_transliteration": "dge-li-shi-nya'; dge-legs-shing-snyag",
+        "english_aliases": "Gêlixi'nya",
+        "tibetan_meaning_en": "Beautiful / auspicious (Lhoba language).",
+        "original_geojson_name": "哥里西娘",
+        "match_status": "精确匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.476389,
+          28.363194,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6E6842FD753FBDC789DC",
+        "Name": "尼乌木",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "尼乌木",
+        "matched_chinese_name": "尼乌木",
+        "tibetan_latin_transliteration": "",
+        "english_aliases": "",
+        "tibetan_meaning_en": "",
+        "original_geojson_name": "尼乌木",
+        "match_status": "未找到可靠匹配",
+        "match_note": "建议补充外部地名录或人工核对坐标"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.152222,
+          28.158333,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7841623C0D3FBDC789DC",
+        "Name": "Gette",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Gette",
+        "matched_chinese_name": "格地",
+        "tibetan_latin_transliteration": "dge-sti",
+        "english_aliases": "",
+        "tibetan_meaning_en": "(Lhoba language).",
+        "original_geojson_name": "格刀",
+        "match_status": "疑似匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.009167,
+          28.686111,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "887B7A277C3FBDC789DC",
+        "Name": "Riga",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Riga",
+        "matched_chinese_name": "日嘎",
+        "tibetan_latin_transliteration": "ri-ka",
+        "english_aliases": "",
+        "tibetan_meaning_en": "(Lhoba language).",
+        "original_geojson_name": "里戛",
+        "match_status": "疑似匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.040694,
+          28.437361,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9686F8496E3FBDC789DC",
+        "Name": "Aalo",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Aalo",
+        "matched_chinese_name": "阿龙",
+        "tibetan_latin_transliteration": "a-long",
+        "english_aliases": "",
+        "tibetan_meaning_en": "(Lhoba language).",
+        "original_geojson_name": "阿帕龙",
+        "match_status": "弱疑似/待确认",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.843056,
+          28.437778,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A32299D0E03FBDC789DC",
+        "Name": "Walong",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Walong",
+        "matched_chinese_name": "瓦弄",
+        "tibetan_latin_transliteration": "wa-lung",
+        "english_aliases": "Walung",
+        "tibetan_meaning_en": "Fox valley / fox ravine.",
+        "original_geojson_name": "瓦弄",
+        "match_status": "精确匹配",
+        "match_note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.017707,
+          28.129594,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12B335CB8BC3FBDC789DC",
+        "Name": "Rima",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "english_main_name": "Rima",
+        "matched_chinese_name": "利马",
+        "tibetan_latin_transliteration": "",
+        "english_aliases": "",
+        "tibetan_meaning_en": "",
+        "original_geojson_name": "利马",
+        "match_status": "未找到可靠匹配",
+        "match_note": "建议补充外部地名录或人工核对坐标"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0577778,
+          28.4355556,
+          0.0
+        ]
+      }
+    }
+  ]
+}

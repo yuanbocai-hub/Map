@@ -1,0 +1,41 @@
+.custom-popup {
+  min-width: 220px;
+  max-width: 320px;
+  font-family: Arial, sans-serif;
+}
+
+.popup-title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+.popup-row {
+  margin-bottom: 7px;
+}
+
+.popup-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #555;
+}
+
+.popup-value {
+  font-size: 13px;
+  color: #111;
+  line-height: 1.35;
+}
+.map-disclaimer {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  max-width: 420px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 8px 10px;
+  border-radius: 6px;
+  font-size: 11px;
+  line-height: 1.35;
+  color: #333;
+  z-index: 1000;
+}

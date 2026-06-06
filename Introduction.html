@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hydropower Development Map</title>
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #222;
+      background: #f7f7f7;
+    }
+
+    header {
+      padding: 16px 20px 8px 20px;
+      background: white;
+      border-bottom: 1px solid #ddd;
+    }
+
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 1.6rem;
+    }
+
+    .description {
+      max-width: 1000px;
+      font-size: 0.98rem;
+      line-height: 1.5;
+      margin-bottom: 8px;
+    }
+
+    #map {
+      width: 100%;
+      height: calc(100vh - 170px);
+    }
+
+    .leaflet-popup-content {
+      line-height: 1.4;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>FRONTIERS, ROADS, and RIVER Landscapes in the Tsangpo Region</h1>
+   <div class="map-disclaimer">
+      Disclaimer: This interactive map is designed solely for academic discussion.
+     It visualizes the spatial relationships among infrastructure,
+     major rivers, settlements, and the boundary of the disputed
+     area between China and India in the Yarlung Tsangpo region. The map does not
+     constitute an authoritative political, legal, or territorial interpretation.
+     中方不承认任何印方对藏南地区的非法控制！
+   </div>
+  </header>
+  
+
+  <div id="map"></div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <script src="main.js"></script>
+</body>
+</html>
